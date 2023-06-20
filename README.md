@@ -3,6 +3,6 @@
 # 2023/06/19~2023/06/20
 ---------------------
 ```
-HTML5, doctype, html , head,title, bod h-1~h6 p, strong, em, sub, s,del, code, blockqute, q,address,hr
-, &lt; &gt; &copy: &amp;
+HTML5 doctype html  headtitle bod h-1~h6 p strong em sub sdel code blockqute qaddresshr
+ &lt; &gt; &copy: &amp;
 ```
